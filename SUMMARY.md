@@ -1,7 +1,6 @@
 # Summary
 
 * [简介](README.md)
-  * [2.输入插件](2shu-ru-cha-jian.md)
-    * [2.1.标准输入（Stdin）](2shu-ru-cha-jian/21biao-zhun-shu-ru-ff08-stdin.md)
-* [First Chapter](chapter1.md)
+  * [1.基础知识](1ji-chu-zhi-shi.md)
+    * [1.1.介绍](1ji-chu-zhi-shi/11jie-shao.md)
 
