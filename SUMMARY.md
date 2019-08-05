@@ -6,4 +6,5 @@
     * [1.2.安装](1ji-chu-zhi-shi/12an-zhuang.md)
     * [1.3.Hello World](1ji-chu-zhi-shi/13hello-world.md)
     * [1.4.长期运行](1ji-chu-zhi-shi/14chang-qi-yun-xing.md)
+    * [1.5.配置语法](1ji-chu-zhi-shi/14chang-qi-yun-xing/15pei-zhi-yu-fa.md)
 
