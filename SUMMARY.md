@@ -7,4 +7,5 @@
     * [1.3.Hello World](1ji-chu-zhi-shi/13hello-world.md)
     * [1.4.长期运行](1ji-chu-zhi-shi/14chang-qi-yun-xing.md)
     * [1.5.配置语法](1ji-chu-zhi-shi/14chang-qi-yun-xing/15pei-zhi-yu-fa.md)
+  * [2.输入插件\(Input\)](2shu-ru-cha-4ef628-input.md)
 
