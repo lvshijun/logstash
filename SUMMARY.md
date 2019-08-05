@@ -13,4 +13,5 @@
     * [2.3.读取网络数据\(TCP\)](2shu-ru-cha-4ef628-input/23du-qu-wang-luo-shu-636e28-tcp.md)
     * [2.4.生成测试数据\(Generator\)](2shu-ru-cha-4ef628-input/24sheng-cheng-ce-shi-shu-636e28-generator.md)
     * [2.5.读取 Syslog 数据](2shu-ru-cha-4ef628-input/25du-qu-syslog-shu-ju.md)
+    * [2.6.读取 Redis 数据](2shu-ru-cha-4ef628-input/26du-qu-redis-shu-ju.md)
 
