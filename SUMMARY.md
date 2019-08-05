@@ -47,4 +47,10 @@
     * [7.1.自己写一个插件](7shen-ru-le-jie/71zi-ji-xie-yi-ge-cha-jian.md)
     * [7.2.为什么用 JRuby？能用 MRI 运行么？](7shen-ru-le-jie/72wei-shi-yao-yong-jruby-ff1f-neng-yong-mri-yun-xing-yao-ff1f.md)
   * [8.周边项目](8zhou-bian-xiang-mu.md)
+    * [8.1.Rsyslog](8zhou-bian-xiang-mu/81rsyslog.md)
+    * [8.2.Logstash-Forwarder](8zhou-bian-xiang-mu/82logstash-forwarder.md)
+    * [8.3.nxlog](8zhou-bian-xiang-mu/83nxlog.md)
+    * [8.4.heka](8zhou-bian-xiang-mu/84heka.md)
+    * [8.5.Message::Passing](8zhou-bian-xiang-mu/85messagepassing.md)
+    * [8.6.fluent](8zhou-bian-xiang-mu/86fluent.md)
 
