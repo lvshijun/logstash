@@ -27,6 +27,6 @@
     * [4.6.split 拆分事件](4guo-lv-cha-jian/46split-chai-fen-shi-jian.md)
     * [4.7.UserAgent 匹配归类](4guo-lv-cha-jian/47useragent-pi-pei-gui-lei.md)
     * [4.8.Key-Value 切分](4guo-lv-cha-jian/48key-value-qie-fen.md)
-    * 4.9.随心所欲的 Ruby 处理
+    * [4.9.随心所欲的 Ruby 处理](4guo-lv-cha-jian/49sui-xin-suo-yu-de-ruby-chu-li.md)
     * 4.10.数值统计\(Metrics\)
 
