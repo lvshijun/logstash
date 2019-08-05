@@ -32,5 +32,7 @@
   * 5.输出插件\(Output\)
   * 6.尚未进入官网库的常用插件
   * [7.深入了解](7shen-ru-le-jie.md)
+    * [7.1.自己写一个插件](7shen-ru-le-jie/71zi-ji-xie-yi-ge-cha-jian.md)
+    * 7.2.为什么用 JRuby？能用 MRI 运行么？
   * 8.周边项目
 
