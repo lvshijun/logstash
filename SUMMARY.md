@@ -32,6 +32,8 @@
   * 5.输出插件\(Output\)
   * [6.尚未进入官网库的常用插件](6shang-wei-jin-ru-guan-wang-ku-de-chang-yong-cha-jian.md)
     * [6.1.KafKa](6shang-wei-jin-ru-guan-wang-ku-de-chang-yong-cha-jian/61kafka.md)
+    * [6.2.HDFS](6shang-wei-jin-ru-guan-wang-ku-de-chang-yong-cha-jian/62hdfs.md)
+    * [6.3.scribe](6shang-wei-jin-ru-guan-wang-ku-de-chang-yong-cha-jian/63scribe.md)
   * [7.深入了解](7shen-ru-le-jie.md)
     * [7.1.自己写一个插件](7shen-ru-le-jie/71zi-ji-xie-yi-ge-cha-jian.md)
     * [7.2.为什么用 JRuby？能用 MRI 运行么？](7shen-ru-le-jie/72wei-shi-yao-yong-jruby-ff1f-neng-yong-mri-yun-xing-yao-ff1f.md)
