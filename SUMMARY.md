@@ -18,4 +18,6 @@
   * [3.编码插件（Codec）](3bian-ma-cha-jian-ff08-codec.md)
     * [3.1.采用JSON编码](31cai-yong-json-bian-ma.md)
     * [3.2.合并多行数据\(Multiline\)](32he-bing-duo-xing-shu-636e28-multiline.md)
+  * [4.过滤插件](4guo-lv-cha-jian.md)
+    * [4.1.Grok 正则捕获](4guo-lv-cha-jian/41grok-zheng-ze-bu-huo.md)
 
