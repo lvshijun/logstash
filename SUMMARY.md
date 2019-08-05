@@ -29,7 +29,7 @@
     * [4.8.Key-Value 切分](4guo-lv-cha-jian/48key-value-qie-fen.md)
     * [4.9.随心所欲的 Ruby 处理](4guo-lv-cha-jian/49sui-xin-suo-yu-de-ruby-chu-li.md)
     * [4.10.数值统计\(Metrics\)](4guo-lv-cha-jian/410shu-zhi-tong-8ba128-metrics.md)
-  * 5.输出插件\(Output\)
+  * [5.输出插件\(Output\)](5shu-chu-cha-4ef628-output.md)
   * [6.尚未进入官网库的常用插件](6shang-wei-jin-ru-guan-wang-ku-de-chang-yong-cha-jian.md)
     * [6.1.KafKa](6shang-wei-jin-ru-guan-wang-ku-de-chang-yong-cha-jian/61kafka.md)
     * [6.2.HDFS](6shang-wei-jin-ru-guan-wang-ku-de-chang-yong-cha-jian/62hdfs.md)
