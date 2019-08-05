@@ -16,7 +16,6 @@ input
         start_position => "beginning"
     }
 }
-
 ```
 
 ## 解释 {#%E8%A7%A3%E9%87%8A}
