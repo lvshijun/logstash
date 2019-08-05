@@ -24,4 +24,5 @@
     * [4.3.数据修改\(Mutate\)](4guo-lv-cha-jian/43shu-ju-xiu-653928-mutate.md)
     * [4.4.GeoIP 地址查询归类](4guo-lv-cha-jian/44geoip-di-zhi-cha-xun-gui-lei.md)
     * [4.5.JSON 编解码](4guo-lv-cha-jian/45json-bian-jie-ma.md)
+    * [4.6.split 拆分事件](4guo-lv-cha-jian/46split-chai-fen-shi-jian.md)
 
