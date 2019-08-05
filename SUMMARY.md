@@ -20,4 +20,5 @@
     * [3.2.合并多行数据\(Multiline\)](32he-bing-duo-xing-shu-636e28-multiline.md)
   * [4.过滤插件](4guo-lv-cha-jian.md)
     * [4.1.Grok 正则捕获](4guo-lv-cha-jian/41grok-zheng-ze-bu-huo.md)
+    * [4.2.时间处理\(Date\)](4guo-lv-cha-jian/42shi-jian-chu-740628-date.md)
 
