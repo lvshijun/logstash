@@ -15,4 +15,6 @@
     * [2.5.读取 Syslog 数据](2shu-ru-cha-4ef628-input/25du-qu-syslog-shu-ju.md)
     * [2.6.读取 Redis 数据](2shu-ru-cha-4ef628-input/26du-qu-redis-shu-ju.md)
     * [2.7.读取Collectd数据](2shu-ru-cha-4ef628-input/27du-qu-collectd-shu-ju.md)
+  * [3.编码插件（Codec）](3bian-ma-cha-jian-ff08-codec.md)
+    * [3.1.采用JSON编码](31cai-yong-json-bian-ma.md)
 
